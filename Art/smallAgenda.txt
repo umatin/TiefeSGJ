@@ -1,0 +1,23 @@
+Gras/Wald
+LSD Welt (courtesy of Sonja Katharina Stefani)
+Feuer
+Wasser
+Space
+Grusel/Korrupt
+
+Extra: Missing Tile/Texture
+
+Bei jedem
+- Walking Tile
+- Obstacles
+
+Enemies
+
+Hintergrundbild?
+
+besondere Tiles:
+*brennender Dornenbusch (Feuer) (Dornenbusch -> Feuer)
+*fleischfressende Pflanze (Gras) (Schaden auf passendem Feld)
+*Sirene (Wasser) (Schaden im Umfeld)
+*Vulkan (Feuer) (schüttelt Bild, entfacht Feuer im Umfeld)
+*Port-ile (Space) (spawnt zu zweit, agiert wie Portal)
